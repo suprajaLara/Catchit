@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catch it!</string>
+    <string name="catch_it">CAtCH IT!!</string>
+    <string name="codeh">"THE CODE ! "</string>
+    <string name="guess">guess the code</string>
+    <string name="points">POINTS:</string>
+    <string name="done">DONE</string>
+    <string name="generate">generate</string>
+
+
+</resources>
